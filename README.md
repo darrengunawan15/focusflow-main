@@ -27,6 +27,4 @@ http://localhost:5173
 
 ### **API DESIGN**
 
-```
 ![API Design](./public/ss.png)
-```
