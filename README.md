@@ -1,4 +1,4 @@
-# 📝 ToDoList App with Firebase 
+# 📝 ToDoList App with Sequelize
 
 ## Installation & Setup
 
