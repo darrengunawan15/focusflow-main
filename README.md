@@ -27,6 +27,6 @@ http://localhost:5173
 
 ### **API DESIGN**
 
-```bash
-![API Design](public/ss.png)
+```
+![API Design](./public/ss.png)
 ```
